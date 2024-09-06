@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pippy", "Pippy\Pippy.csproj", "{8B514257-8565-46C8-91F1-C274946D5E01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resulties", "Resulties\Resulties.csproj", "{52D8B8CC-28DE-433B-A5DB-6958DA23F906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B514257-8565-46C8-91F1-C274946D5E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B514257-8565-46C8-91F1-C274946D5E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B514257-8565-46C8-91F1-C274946D5E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B514257-8565-46C8-91F1-C274946D5E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D8B8CC-28DE-433B-A5DB-6958DA23F906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D8B8CC-28DE-433B-A5DB-6958DA23F906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D8B8CC-28DE-433B-A5DB-6958DA23F906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D8B8CC-28DE-433B-A5DB-6958DA23F906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
