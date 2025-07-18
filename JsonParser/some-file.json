@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Shorper",
+    "age": 25,
+    "skills": [{"name":  "rust",
+      "level": 1.5
+    }, {"name":  "sharpy",
+      "level": null
+    }]
+  }
+]

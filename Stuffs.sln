@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resulties", "Resulties\Resu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayBuilder", "ArrayBuilder\ArrayBuilder.csproj", "{F22F24D4-70DC-4C70-A612-A3EDE4286B8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonParser", "JsonParser\JsonParser.csproj", "{0777B692-CF61-42AC-85F7-A3D24DB97890}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{F22F24D4-70DC-4C70-A612-A3EDE4286B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F22F24D4-70DC-4C70-A612-A3EDE4286B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F22F24D4-70DC-4C70-A612-A3EDE4286B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0777B692-CF61-42AC-85F7-A3D24DB97890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0777B692-CF61-42AC-85F7-A3D24DB97890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0777B692-CF61-42AC-85F7-A3D24DB97890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0777B692-CF61-42AC-85F7-A3D24DB97890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
